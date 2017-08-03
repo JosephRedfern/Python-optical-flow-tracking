@@ -1,8 +1,8 @@
 # Python-optical-flow-tracking
-Using Optical Flow for Detection Motion object. 
+Demonstration of dense optical flow (for motion detection) under OpenCV 3 & Python.
 
 
-#Run
+## Run
 This code tested on OS X with Conda Python 3.6, and OpenCV 3 from conda-forge, but should work on other Operating systems, provided OpenCV 3 is available. 
 
 This code is a fork of https://github.com/sahakorn/Python-optical-flow-tracking, which in turn was based on original code from the OpenCV docs: https://github.com/opencv/opencv/blob/2.4.12/samples/python2/opt_flow.py
